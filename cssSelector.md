@@ -26,4 +26,6 @@ p {
 3. **color**: the property
 4. **value**: the value
 
+> CSS follows specificity hierarchy. If an element has two or more CSS selectors, the selector with the highest specificity will be applied to the element.
+
 IF you would like to learn more about CSS selectors and properties chack out [MDN's Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started).
